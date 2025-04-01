@@ -17,15 +17,6 @@
 
 </details>
 
-<details>
-  <summary><strong>🗓 Data de Entrega</strong></summary><br />
-  
-  * Este projeto é individual
-  * Serão `2` dias de projeto
-  * Data de entrega para avaliação regular do projeto: `08/04/2024 23:59`
-
-</details>
-
 # Orientações
 
 <details>
